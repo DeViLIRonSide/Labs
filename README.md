@@ -1,3 +1,1 @@
-Labs for ARTI 308 – Machine Learning
-
-Student Name : Abdullah jaffar masiri Student ID : 2240004545 Section : 6MS1
+This project was completed as part of ARTI 308 Lab 2 and focuses on identifying a machine learning problem and inspecting an open dataset. The dataset used is the Student Performance dataset, which contains demographic, social, and academic information about students, including study time, absences, and grades. The objective of this project is to explore how different factors relate to student academic performance, where the target variable is the final grade (G3), making this a supervised learning regression problem. The repository includes a Jupyter Notebook that loads and inspects the dataset using Pandas by displaying its shape, previewing the first rows, and checking column names and data types, as well as a methodology diagram that illustrates the overall machine learning workflow from data loading to model evaluation.
